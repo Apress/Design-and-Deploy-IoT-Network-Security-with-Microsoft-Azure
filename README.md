@@ -1,7 +1,6 @@
 # Apress Source Code
 
-This repository accompanies [*Design and Deploy IoT Network & Security with Microsoft Azure*](https://link.springer.com/book/	
-9798868809071) by Puthiyavan Udayakumar and Dr. R Anandan (Apress, 2024).
+This repository accompanies [*Design and Deploy IoT Network & Security with Microsoft Azure*](https://link.springer.com/book/9798868809071) by Puthiyavan Udayakumar and Dr. R Anandan (Apress, 2024).
 
 [comment]: #cover
 ![Cover image](979-8-8688-0907-1.jpg)
